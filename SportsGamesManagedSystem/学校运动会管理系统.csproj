@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EDB530CF-E803-466D-9FFB-CF2A57E4BD8A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>学校运动会管理系统</RootNamespace>
+    <AssemblyName>学校运动会管理系统</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_cansai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_cansai.Designer.cs">
+      <DependentUpon>Form_cansai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_cansaibumenluru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_cansaibumenluru.Designer.cs">
+      <DependentUpon>Form_cansaibumenluru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_chaxun.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_chaxun.Designer.cs">
+      <DependentUpon>Form_chaxun.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_chengjiluru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_chengjiluru.Designer.cs">
+      <DependentUpon>Form_chengjiluru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_duiyuanguishu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_duiyuanguishu.Designer.cs">
+      <DependentUpon>Form_duiyuanguishu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_guanyu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_guanyu.Designer.cs">
+      <DependentUpon>Form_guanyu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_jingsai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_jingsai.Designer.cs">
+      <DependentUpon>Form_jingsai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_nandui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_nandui.Designer.cs">
+      <DependentUpon>Form_nandui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_nvdui.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_nvdui.Designer.cs">
+      <DependentUpon>Form_nvdui.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tiansai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tiansai.Designer.cs">
+      <DependentUpon>Form_tiansai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_tongji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_tongji.Designer.cs">
+      <DependentUpon>Form_tongji.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_yundongyuan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_yundongyuan.Designer.cs">
+      <DependentUpon>Form_yundongyuan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jwglDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jwglDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="jwglDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jwglDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="jwglDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jwglDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="jwglDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jwglDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="jwglDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jwglDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_cansai.resx">
+      <DependentUpon>Form_cansai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_cansaibumenluru.resx">
+      <DependentUpon>Form_cansaibumenluru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_chaxun.resx">
+      <DependentUpon>Form_chaxun.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_chengjiluru.resx">
+      <DependentUpon>Form_chengjiluru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_duiyuanguishu.resx">
+      <DependentUpon>Form_duiyuanguishu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_guanyu.resx">
+      <DependentUpon>Form_guanyu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_jingsai.resx">
+      <DependentUpon>Form_jingsai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_nandui.resx">
+      <DependentUpon>Form_nandui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_nvdui.resx">
+      <DependentUpon>Form_nvdui.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tiansai.resx">
+      <DependentUpon>Form_tiansai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_tongji.resx">
+      <DependentUpon>Form_tongji.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_yundongyuan.resx">
+      <DependentUpon>Form_yundongyuan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="jwglDataSet.xsc">
+      <DependentUpon>jwglDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jwglDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="jwglDataSet.xss">
+      <DependentUpon>jwglDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet1.xsc">
+      <DependentUpon>jwglDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jwglDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="jwglDataSet1.xss">
+      <DependentUpon>jwglDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet2.xsc">
+      <DependentUpon>jwglDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jwglDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="jwglDataSet2.xss">
+      <DependentUpon>jwglDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet3.xsc">
+      <DependentUpon>jwglDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jwglDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="jwglDataSet3.xss">
+      <DependentUpon>jwglDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet4.xsc">
+      <DependentUpon>jwglDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="jwglDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>jwglDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="jwglDataSet4.xss">
+      <DependentUpon>jwglDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,44 @@
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\bin\Debug\学校运动会管理系统.exe.config
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\bin\Debug\学校运动会管理系统.exe
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\bin\Debug\学校运动会管理系统.pdb
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Main.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_cansai.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_cansaibumenluru.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_chengjiluru.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_duiyuanguishu.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_guanyu.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_jingsai.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_nandui.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_nvdui.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_tiansai.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_yundongyuan.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.exe
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.pdb
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\学校运动会管理系统\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_chaxun.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\bin\Debug\学校运动会管理系统.exe.config
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\bin\Debug\学校运动会管理系统.exe
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\bin\Debug\学校运动会管理系统.pdb
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Main.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_cansai.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_cansaibumenluru.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_chaxun.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_chengjiluru.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_duiyuanguishu.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_guanyu.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_jingsai.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_nandui.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_nvdui.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_tiansai.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_yundongyuan.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.exe
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.pdb
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\学校运动会管理系统 - 副本\学校运动会管理系统\obj\Debug\学校运动会管理系统.Form_tongji.resources
+C:\Users\Administrator\Desktop\学校运动会管理系统 -2\学校运动会管理系统\bin\Debug\学校运动会管理系统.exe.config
+C:\Users\Administrator\Desktop\学校运动会管理系统 -2\学校运动会管理系统\obj\Debug\学校运动会管理系统.exe
+C:\Users\Administrator\Desktop\学校运动会管理系统 -2\学校运动会管理系统\obj\Debug\学校运动会管理系统.pdb
